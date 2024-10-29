@@ -43,7 +43,7 @@ Sem data exata definida ainda.
 
 Junte-se ao time por trás da Python Norte 2025! Voluntárias e voluntários são sempre bem-vindos. Preencha o formulário abaixo ⬇️
 
-#### [Formulário para novos voluntários](#)
+#### [Formulário para novos voluntários](https://docs.google.com/forms/d/e/1FAIpQLSfQFaowxMze5Ws22RJwX1fimTW_T63FVc1FcZ9GGxWFTT2dDA/formResponse)
 
 
 ## 2025 Big Kahuna 😜
