@@ -9,7 +9,7 @@ Os objetivos da Python Norte incluem: difundir a linguagem Python, promover a tr
 A Python Norte é organizada exclusivamente por voluntárias e voluntários, sem fins lucrativos. Compreendemos a importância de eventos de tecnologia para o desenvolvimento local e, por isso, unimos esforços para oferecer um evento de alta qualidade.
 
 ## Sobre as atividades
-Trabalhamos de forma **assíncrona e a distância**, com reuniões semanais às **dia da semana, às xxhxx** de Manaus, AM (GMT-4), via **Discord**. As tarefas estão disponíveis em nosso quadro de atividades, onde cada membro escolhe o que pode resolver no seu tempo. Solicitamos comprometimento com as atividades e respeito aos prazos. Consideramos que todas e todos na organização têm outras responsabilidades, como trabalho e estudos.
+Trabalhamos de forma **assíncrona e a distância**, com reuniões semanais às **terça-feira, às 19h30** de Brasília, BSB (GMT-3), via **Discord**. As tarefas estão disponíveis em nosso quadro de atividades, onde cada membro escolhe o que pode resolver no seu tempo. Solicitamos comprometimento com as atividades e respeito aos prazos. Consideramos que todas e todos na organização têm outras responsabilidades, como trabalho e estudos.
 
 ## Sobre as Ferramentas
 Ferramentas utilizadas pela organização:
@@ -19,7 +19,7 @@ Ferramentas utilizadas pela organização:
 
 ## Informações sobre o evento
 
-**Data prevista**: Julho de 2025 (2 dias de evento);
+**Data prevista**: Julho de 2025 (3 dias de evento);
 
 Sem data exata definida ainda.
 
@@ -28,7 +28,7 @@ Sem data exata definida ainda.
 **Local**: Belém, Pará
 
 ## Reuniões
-**Organização Geral**: Toda **dia da semana às xxhxx** (Fuso Manaus) | xxhx de (Fuso Brasília)
+**Organização Geral**: Toda **dia da semana às 19h30** (Fuso Brasília)
 
 ## Grupos de trabalho
 | Grupo | Descrição |
